@@ -1,1 +1,3 @@
-# test-raw-file
+{
+  "type": "string"
+}
